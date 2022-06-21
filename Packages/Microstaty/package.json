@@ -1,10 +1,11 @@
 {
-    "name": "com.inolalala.microstaty",
-    "displayName": "Microstaty",
-    "version": "0.1.0",
-    "unity": "2020.3",
-    "description": "Simple StatePattern library by using Codes on Unity for Small Scale Application.",
-    "author": {
-      "name": "Microstaty"
-    }
-  }
+  "name": "com.inolalala.microstaty",
+  "displayName": "Microstaty",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "Simple StatePattern library by using Codes on Unity for Small Scale Application.",
+  "author": {
+    "name": "Microstaty"
+  },
+  "type": "tool"
+}
