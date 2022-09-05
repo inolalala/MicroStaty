@@ -573,6 +573,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf3cb6c96150c41eb9cf818de6939395, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  configurationMonoBehavior: {fileID: 872679429}
 --- !u!114 &872679429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -585,11 +586,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d450db90cbc4c4d1bb825560a568d96a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  debugText: {fileID: 33532735}
   stateObjects:
   - {fileID: 1545452748}
   - {fileID: 1018848902}
   - {fileID: 532204069}
+  debugText: {fileID: 33532735}
 --- !u!114 &872679430
 MonoBehaviour:
   m_ObjectHideFlags: 0
